@@ -8,10 +8,10 @@ This is a Python project that utilizes the OpenCV library to create a real-time 
 * Video display
 * Control and termination
 
-# # OpenCV setup method 1:
+# OpenCV setup method 1:
 pip3 install opencv-python
 
-# # OpenCV setup method 2:
+# OpenCV setup method 2:
 python -m pip install opencv-python
 
 # Code explanation:
