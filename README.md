@@ -1,5 +1,5 @@
 # Security-Camera-using-python
-This is a Python project that utilizes the OpenCV library to create a real-time video recording program with face and body detection. The primary features of this program are as follows:
+This is a Python project that utilizes the OpenCV library to create a real-time video recording program with face and body detection. In this project I cover on how to access and display the video feed from a webcam or connected camera. Here's the logic for saving videos only when a person is detected and stopping the recording when no person is detected. The primary features of this program are as follows:
 
 * Video capture
 * Face and Body detection
